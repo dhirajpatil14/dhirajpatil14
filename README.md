@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dhirajpatil14
-- 👀 I’m interested in Full Stack Development with .net core and Angular.
+- 👀 I’m interested in Full Stack Development with .net core, Angular and SQL Server.
 - 🌱 I’m currently learning building an ECommerce project from scratch.
 - 💞️ I’m looking to collaborate on Angular.
 - 📫 How to reach me : write me to - dhirajpatil14994@gmail.com
